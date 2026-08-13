@@ -1,3 +1,4 @@
+https://github.com/kennedy-kitoko/TerraSoil
 https://github.com/Khuuxuanngoc/MKE_I2C_MotorDriver_lib
 https://github.com/LUKASYNKOWY/OTAWIFIAsyncBar
 https://github.com/zernovtechno/Vendista
